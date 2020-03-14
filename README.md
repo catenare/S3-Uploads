@@ -1,3 +1,4 @@
+## This is the local repo to use with composer.json when builing wordpress.
 <table width="100%">
 	<tr>
 		<td align="left" width="70">
